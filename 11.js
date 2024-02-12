@@ -3,7 +3,7 @@
 //Após 60 meses, independente de ter quitado ou não o valor total do curso (de R$ 18.000,00) a pessoa não deve nada, ou seja, o valor da parcela é zero.
 //a) Faça um programa que calcula o valor da parcela a ser paga pelo aluno. Imprima uma mensagem bonita na tela, com o valor em reais.
 
-const rendaMensalEmCentavos = 300000;
+const rendaMensalEmCentavos = 150000;
 
 // Tempo decorrido de contrato. Se for maior que 60 meses, o aluno não deve mais nada.
 const mesesDecorridos = 12;
@@ -24,3 +24,4 @@ if (mesesDecorridos > 60 || totalJaPagoPeloAluno === 1800000){
 } else {
     console.log("Nenhum valor eh devido, pois sua renda eh inferior ao valor de R$ 2.000,00.");
 }
+/////alterado os valores para aplicar a parte B do exercicio.
