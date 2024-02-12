@@ -11,9 +11,16 @@
 //if (primeiroNome);
 //console.log("Mario");//
 
-const primeiroNome = "Mario";
-const sobrenome = "";
-const apelido = "Bros";
+//const primeiroNome = "Mario";
+//const sobrenome = "";
+//const apelido = "Bros";
 
-if(apelido);
-    console.log("Bros");
+//if(apelido);
+//    console.log("Bros");
+
+const primeiroNome = "Mario";
+const sobrenome = "Bros";
+const apelido = "";
+
+if(primeiroNome, sobrenome);
+    console.log("Mario Bros");
