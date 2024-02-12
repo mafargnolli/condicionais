@@ -4,9 +4,16 @@
 //Neste exercício, não deveremos utilizar nenhum operador de comparação, nem de igualdade e nem de identidade. 
 //Para este exercício deveremos utilizar apenas o conceito de truthiness.
 
+//const primeiroNome = "Mario";
+//const sobrenome = "";
+//const apelido = "";
+
+//if (primeiroNome);
+//console.log("Mario");//
+
 const primeiroNome = "Mario";
 const sobrenome = "";
-const apelido = "";
+const apelido = "Bros";
 
-if (primeiroNome);
-console.log("Mario");
+if(apelido);
+    console.log("Bros");
